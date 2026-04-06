@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.env
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info
+.pytest_cache
+.git
+node_modules
+frontend/build
+*.sqlite3
+backend/spendwise.db
